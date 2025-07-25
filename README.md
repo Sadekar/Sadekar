@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rutuja Sadekar
 
-<!--
-**Sadekar/Sadekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Insight Seeker | Storyteller with Data**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my GitHub! I'm a data-driven professional passionate about translating numbers into narratives that make sense and drive action.
+
+---
+
+## 🔍 About Me
+
+- 📊 I work as a **Data Analyst** turning raw data into meaningful insights
+- 🛠️ Skilled in **SQL, Python, R, Excel, Apache Superset**, and a bit of **Power BI, JavaScript**
+- 📈 I enjoy building dashboards, automating reports, and visualizing complex data
+- 🧠 Curious by nature — constantly learning and refining my analytical skills
+- 🎯 Currently focused on **data visualization**, **business insights**, and **data storytelling**
+
+---
+
+## 🧰 Tools & Technologies
+
+| Category | Tools |
+|---------|--------|
+| **Languages** | SQL · Python · R · JavaScript (basic) |
+| **Data Viz** | Excel · Apache Superset · Power BI (basic) |
+| **Libraries** | Pandas · NumPy · Matplotlib |
+| **Other** | DAX · Google Sheets · Git · Jupyter |
+
+---
+
+## ✨ What I’m Up To
+
+- 📚 Learning advanced data visualization techniques
+- 📊 Exploring open datasets for real-world analysis
+- 🧩 Building a personal portfolio of dashboards and projects
+- 🌱 Always experimenting with ways to make insights more actionable
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-linkedin)  
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:rutusadekar1116@gmail.com)
+
+<!-- Twitter is commented out for now
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/your-twitter)
 -->
+
+---
+
+## 📊 GitHub Analytics
+
+| Languages I Use Most | My GitHub Stats |
+|----------------------|-----------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadekar&layout=compact&theme=gruvbox) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadekar&show_icons=true&theme=gruvbox) |
+
+---
+
+✨ _"The goal is to turn data into information, and information into insight."_ — Carly Fiorina
