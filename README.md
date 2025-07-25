@@ -4,7 +4,8 @@
 
 ---
 
-Welcome to my GitHub! I'm a data-driven professional passionate about translating numbers into narratives that make sense and drive action.
+Welcome to my GitHub! 
+I'm a data-driven professional passionate about translating numbers into narratives that make sense and drive action.
 
 ---
 
@@ -27,6 +28,12 @@ Welcome to my GitHub! I'm a data-driven professional passionate about translatin
 | **Libraries** | Pandas · NumPy · Matplotlib |
 | **Other** | DAX · Google Sheets · Git · Jupyter |
 
+| 💻 Category      | 🧪 Tools                                                               |
+|------------------|-------------------------------------------------------------------------|
+| **Languages**    | SQL · Python · R · JavaScript (basic)                                   |
+| **Data Viz**     | Excel · Apache Superset · Power BI (basic)                              |
+| **Libraries**    | Pandas · NumPy · Matplotlib                                             |
+| **Other Tools**  | DAX · Google Sheets · Git · Jupyter                                     |
 ---
 
 ## ✨ What I’m Up To
@@ -39,14 +46,19 @@ Welcome to my GitHub! I'm a data-driven professional passionate about translatin
 ---
 
 ## 📫 Let’s Connect
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-linkedin)  
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:rutusadekar1116@gmail.com)
 
 <!-- Twitter is commented out for now
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/your-twitter)
 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:rutusadekar1116@gmail.com)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/your-twitter) -->
+<!-- ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=blueviolet) -->
 
+</div>
 ---
 
 ## 📊 GitHub Analytics
@@ -55,6 +67,13 @@ Welcome to my GitHub! I'm a data-driven professional passionate about translatin
 |----------------------|-----------------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadekar&layout=compact&theme=gruvbox) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadekar&show_icons=true&theme=gruvbox) |
 
+<div align="center">
+
+| 🔥 Top Languages | ⚡ GitHub Stats |
+|------------------|----------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadekar&layout=compact&theme=gruvbox) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadekar&show_icons=true&theme=gruvbox) |
+
+</div>
 ---
 
 ✨ _"The goal is to turn data into information, and information into insight."_ — Carly Fiorina
