@@ -48,14 +48,28 @@ I'm a data-driven professional passionate about translating numbers into narrati
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/your-twitter) -->
 <!-- ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=blueviolet) -->
 
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+</a>
+
+<a href="mailto:rutusadekar1116@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gray?logo=gmail&style=for-the-badge" alt="Gmail Badge"/>
+</a>
+
+<!-- <a href="https://twitter.com/your-twitter" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
+</a> -->
+
+<!-- ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=blueviolet) -->
+
 ---
 
 ## 📊 GitHub Analytics
-
+<!--
 | Languages I Use Most | My GitHub Stats |
 |----------------------|-----------------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadekar&layout=compact&theme=gruvbox) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadekar&show_icons=true&theme=gruvbox) |
-
+-->
 <div align="center">
 
 | 🔥 Top Languages | ⚡ GitHub Stats |
