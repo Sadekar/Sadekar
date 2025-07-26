@@ -40,11 +40,6 @@ I'm a data-driven professional passionate about translating numbers into narrati
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-linkedin)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-linkedin)
-
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:rutusadekar1116@gmail.com)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:rutusadekar1116@gmail.com)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/your-twitter) -->
 <!-- ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=blueviolet) -->
 
@@ -60,7 +55,7 @@ I'm a data-driven professional passionate about translating numbers into narrati
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
 </a> -->
 
-<!-- ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=blueviolet) -->
+< ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=blueviolet) -->
 
 ---
 
