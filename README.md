@@ -38,7 +38,7 @@ I'm a data-driven professional passionate about translating numbers into narrati
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s Connect   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120"/>
 
 <a href="https://www.linkedin.com/in/rutuja-sadekar-8989b3164/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
