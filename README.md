@@ -8,7 +8,7 @@ Welcome to my GitHub!
 I'm a data-driven professional passionate about translating numbers into narratives that make sense and drive action.
 
 ---
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200">
+<!-- img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"> -->
 ## 🔍 About Me
 
 - 📊 I work as a **Data Analyst** turning raw data into meaningful insights
@@ -38,7 +38,10 @@ I'm a data-driven professional passionate about translating numbers into narrati
 
 ---
 
-## 📫 Let’s Connect   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120"/>
+## 📫 Let’s Connect   
+<img src="https://media.giphy.com/media/SvCz3HjbzOZ8U/giphy.gif" width="150"/>
+
+<!-- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120"/> -->
 
 <a href="https://www.linkedin.com/in/rutuja-sadekar-8989b3164/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
