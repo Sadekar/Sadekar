@@ -41,9 +41,9 @@ I'm a data-driven professional passionate about translating numbers into narrati
 ## 📫 Let’s Connect
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/your-twitter) -->
-<!-- ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=blueviolet) -->
+-- ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=blueviolet) -->
 
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/rutuja-sadekar-8989b3164/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
 
@@ -55,7 +55,7 @@ I'm a data-driven professional passionate about translating numbers into narrati
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
 </a> -->
 
-< ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=blueviolet) -->
+<!-- ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=blueviolet) -->
 
 ---
 
