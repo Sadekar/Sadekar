@@ -55,7 +55,7 @@ I'm a data-driven professional passionate about translating numbers into narrati
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
 </a> -->
 
-<-- ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors&style=for-the-badge&color=1DA1F2violet) -->
+<-- ![Visitors](https://komarev.com/ghpvc/?username=Sadekar&label=Visitors-red&style=for-the-badge&color=blueviolet) -->
 
 ---
 
