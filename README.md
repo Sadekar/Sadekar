@@ -39,13 +39,21 @@ I'm a data-driven professional passionate about translating numbers into narrati
 ---
 
 ## 📫 Let’s Connect   
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120"/>
-</p>
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" />
+
+<img src="https://media.giphy.com/media/QBDtGk9A7bKtOMtcoU/giphy.gif" width="250" />
+
+<img src="https://media.giphy.com/media/kFgzrTt798d4c/giphy.gif" width="200" />
+
+<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="220" />
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
+
 
 <p align="center">
-  <strong>Wanna connect? hmu 😊</strong>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" />
 </p>
+
 
 <!-- <img src="https://media.giphy.com/media/SvCz3HjbzOZ8U/giphy.gif" width="150"/> -->
 
