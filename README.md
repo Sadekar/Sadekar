@@ -57,19 +57,69 @@ I'm a data-driven professional passionate about translating numbers into narrati
 
 ---
 
-## 📊 GitHub Analytics
-<!--
+<!--## 📊 GitHub Analytics
+
 | Languages I Use Most | My GitHub Stats |
 |----------------------|-----------------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadekar&layout=compact&theme=gruvbox) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadekar&show_icons=true&theme=gruvbox) |
--->
-<div align="center">
+ -->
+
+<!-- <div align="center">
 
 | 🔥 Top Languages | ⚡ GitHub Stats |
 |------------------|----------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadekar&layout=compact&theme=gruvbox) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadekar&show_icons=true&theme=gruvbox) |
+| ![Top Languages](https://img.shields.io/badge/Top%20Languages-JavaScript%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge) | ![GitHub Stats](https://img.shields.io/badge/GitHub%20Commits-Active-brightgreen?style=for-the-badge) |
 
-</div>
+</div> -->
+
+<!-- <div align="center">
+
+<table>
+  <tr>
+    <th>🔥 Top Languages</th>
+    <th>⚡ GitHub Stats</th>
+  </tr>
+  <tr>
+    <td>
+      <img 
+        src="https://gh-stats.egoist.dev/api/top-langs/?username=Sadekar&layout=compact&theme=gruvbox&cache_seconds=7200" 
+        alt="Top Langs" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://gh-stats.egoist.dev/api?username=Sadekar&show_icons=true&theme=gruvbox&cache_seconds=7200" 
+        alt="GitHub Stats" 
+      />
+    </td>
+  </tr>
+</table>
+
+</div> -->
+
+<!-- <div align="center">
+
+<table>
+  <tr>
+    <th>🔥 Top Languages</th>
+    <th>⚡ GitHub Stats</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadekar&layout=compact&theme=gruvbox&cache_seconds=7200" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sadekar&show_icons=true&theme=gruvbox&cache_seconds=7200" /></td>
+  </tr>
+</table>
+
+</div> -->
+
+
+<!-- <div align="center">
+
+| 🔥 Top Languages | ⚡ GitHub Stats |
+|------------------|----------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadekar&layout=compact&theme=gruvbox&cache_seconds=7200) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadekar&show_icons=true&theme=gruvbox) |
+
+</div> -->
 ---
 
 ✨ _"The goal is to turn data into information, and information into insight."_ — Carly Fiorina
