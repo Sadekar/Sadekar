@@ -119,7 +119,7 @@ I'm a data-driven professional passionate about translating numbers into narrati
 |------------------|----------------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadekar&layout=compact&theme=gruvbox&cache_seconds=7200) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadekar&show_icons=true&theme=gruvbox) |
 
-</div> -->
+</div> 
 ---
-
+-->
 ✨ _"The goal is to turn data into information, and information into insight."_ — Carly Fiorina
