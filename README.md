@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Rutuja Sadekar
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 👋 I'm Rutuja Sadekar
 
 🎯 **Data Analyst | Insight Seeker | Storyteller with Data**
 
