@@ -53,6 +53,11 @@ I'm a data-driven professional passionate about translating numbers into narrati
   <img src="https://img.shields.io/badge/Email-gray?logo=gmail&style=for-the-badge" alt="Gmail Badge"/>
 </a>
 
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
+
+---
+### Thanks for visiting ! 🚀
 <!-- <a href="https://twitter.com/your-twitter" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
 </a> -->
