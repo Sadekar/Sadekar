@@ -1,5 +1,5 @@
 
-<h1 align="center"> # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Rutuja Sadekar </h1>
+<h1 align="center">  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Rutuja Sadekar </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Fira+Code&duration=4000&pause=1000&color=10B4F7&center=true&vCenter=true&random=false&width=450&size=25&lines=Welcome+to+my+GitHub+Profile!;Love+to+learn+new+things.."></a>
