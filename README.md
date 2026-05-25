@@ -45,6 +45,8 @@ I'm a data-driven professional passionate about translating numbers into narrati
 
 ## 📫 Let’s Connect   
 
+Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
+
 <a href="https://www.linkedin.com/in/rutuja-sadekar-8989b3164/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
@@ -52,9 +54,6 @@ I'm a data-driven professional passionate about translating numbers into narrati
 <a href="mailto:rutusadekar1116@gmail.com">
   <img src="https://img.shields.io/badge/Email-gray?logo=gmail&style=for-the-badge" alt="Gmail Badge"/>
 </a>
-
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
 
 ---
 ### Thanks for visiting ! 🚀
