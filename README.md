@@ -43,6 +43,23 @@ I'm a data-driven professional passionate about translating numbers into narrati
 
 ---
 
+### :fire: My Stats : 
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RutujaMoholkar&theme=dark" alt="GitHub Streak" /></a>
+<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<details> 
+      <summary><b>💻 GitHub Profile Stats :</b></summary>
+  <br/>
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RutujaMoholkar&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
+<br/>
+  </p>
+</details>
+
+---
+
 ## 📫 Let’s Connect   
 
 Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
