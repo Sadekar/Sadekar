@@ -47,7 +47,7 @@ I'm a data-driven professional passionate about translating numbers into narrati
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RutujaMoholkar&theme=dark" alt="GitHub Streak" /></a>
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadekar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <details> 
       <summary><b>💻 GitHub Profile Stats :</b></summary>
